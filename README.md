@@ -1,6 +1,6 @@
 What is MLDatePicker?
 ---
-It's a date picker base on ActionSheet.
+It's a date picker base on ActionSheet for iPhone.
 
 ARC
 ---
