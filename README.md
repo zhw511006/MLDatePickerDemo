@@ -2,7 +2,7 @@ What is MLDatePicker?
 ---
 It's a date picker base on ActionSheet for iPhone.
 
-<img src="https://fgfarq.bn1.livefilestore.com/y2phzJr-G-fgbc8YMJl_HPKAMn2KBrEnOU42D4pWIJ_bWyYGGsgK56S1oEvNdGv5mWaaorwiJrvHmfPWZMdfXiCd7Fr5kjb52-uJn3RCSen4bTyfaL6pvor0fH8Bs07SVjN/MLDatePicker.png?psid=1"/>
+<img src=""/>
 
 ARC
 ---
